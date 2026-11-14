@@ -72,8 +72,7 @@ Implementation of Double Ended Queue (Deque)
 1. Clone the repository:
 
 
-git clone YOUR_REPOSITORY_URL
-
+git clone https://github.com/gadediksha/Assessment_questions
 
 
 2. Open the project in your code editor.
@@ -128,7 +127,7 @@ Diksha Gade
 
 
 🔗 GitHub Profile
-
+https://github.com/gadediksha
 
 
 ⭐ Thanks for visiting this repository!
